@@ -1,0 +1,2 @@
+class Kalam < ApplicationRecord
+end
